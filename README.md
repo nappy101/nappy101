@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nappy101
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently working on my bachelors in cybersecurity
-- 💞️ I’m looking to collaborate and learn from others
 
 
 <!---
