@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nappy101
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently working on my bachelors in cybersecurity
+- 👀 I’m interested in Technology
+- 🌱 I’m currently working on my bachelors in Information Technology
 
 
 <!---
